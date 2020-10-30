@@ -1,0 +1,13 @@
+
+Body{
+    background-color:red;}
+
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    Color:blue;
+    text-align:center;}
+
+    #nav, #freature, .article, #footer{
+        background-color:royalblue;
+        margin-top:20px;
+    }
